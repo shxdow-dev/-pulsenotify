@@ -1,5 +1,6 @@
 # 🔴 PulseNotify
 **Helps in emergency situations**
+ **ANYTIME ANYWHER**
 
 ---
 
@@ -12,5 +13,5 @@
 
 ---
 
-👩‍💻 Author: Ayesha
+👩‍💻 Author: Ayesha Rizwan
 
